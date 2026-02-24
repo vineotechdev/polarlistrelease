@@ -1,0 +1,22 @@
+{
+  "version": 117,
+  "minimum_version": 100,
+  "mandatory": false,
+  "update_message": "A new version is available. Update now for the latest features and improvements.",
+  "mandatory_message": "This update is required to continue using the app. Please update now.",
+  "ios_version": 1,
+  "ios_minimum_version": 1,
+  "ios_mandatory": false,
+  "ios_update_message": "A new version is available. Update now for the latest features and improvements.",
+  "ios_mandatory_message": "This update is required to continue using the app. Please update now.",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.polarlist.app",
+  "app_store_url": "https://apps.apple.com/app/polarlist/id000000000",
+  "desktop_version": "1.0.0",
+  "desktop_minimum_version": "1.0.0",
+  "desktop_mandatory": false,
+  "desktop_update_message": "A new version of PolarList is available!",
+  "desktop_mandatory_message": "This update is required to continue using PolarList.",
+  "download_url_win": "https://github.com/vineotechdev/polarlistrelease/releases",
+  "download_url_mac": "https://github.com/vineotechdev/polarlistrelease/releases",
+  "download_url_linux": "https://github.com/vineotechdev/polarlistrelease/releases"
+}
